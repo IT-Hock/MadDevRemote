@@ -1,0 +1,60 @@
+﻿{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "StreamDeck API Server - OpenAPI Spec",
+    "description": "This is the OpenAPI specification for the StreamDeck API Server. This API server is used to control the Unreal Engine using the StreamDeck plugin.",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:2206/api/v1"
+    }
+  ],
+  "paths": {
+    "/health": {
+      "get": {
+        "description": "Returns some basic information about the Unreal Engine",
+        "responses": {
+          "200": {
+            "description": "Default success response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "Engine": {
+                    "Version": "4.26.2"
+                  },
+                  "Memory": {
+                    "Available": 1638200,
+                    "Used": 9218
+                  },
+                  "Plugin": {
+                    "Name": "MadDevRemote",
+                    "Version": "1.0.0",
+                    "Author": "Copyright (c) 2024 - Mad Dev Games. All Rights Reserved."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/command": {
+      "post": {
+        "description": "New endpoint",
+        "responses": {
+          "200": {
+            "description": "New response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "": ""
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
