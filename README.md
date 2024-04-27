@@ -26,7 +26,7 @@
 </p>
    
 <h4>
-    <a href="https://github.com/IT-Hock/MadDevRemote">Documentation</a>
+    <a href="https://it-hock.github.io/MadDevRemote/">Documentation</a>
   <span> · </span>
     <a href="https://github.com/IT-Hock/MadDevRemote/issues/">Report Bug</a>
   <span> · </span>
