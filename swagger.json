@@ -20,18 +20,23 @@
             "content": {
               "application/json": {
                 "example": {
-                  "Engine": {
-                    "Version": "4.26.2"
+                  "data": {
+                    "Engine": {
+                      "Version": "4.26.2"
+                    },
+                    "Memory": {
+                      "Available": 68719476736,
+                      "Used": 35181692437
+                    },
+                    "Plugin": {
+                      "Name": "MadDevRemote",
+                      "Version": "1.0.0",
+                      "Author": "Copyright (c) 2024 - Mad Dev Games. All Rights Reserved."
+                    }
                   },
-                  "Memory": {
-                    "Available": 1638200,
-                    "Used": 9218
-                  },
-                  "Plugin": {
-                    "Name": "MadDevRemote",
-                    "Version": "1.0.0",
-                    "Author": "Copyright (c) 2024 - Mad Dev Games. All Rights Reserved."
-                  }
+                  "code": 200,
+                  "message": "OK",
+                  "success": true
                 }
               }
             }
