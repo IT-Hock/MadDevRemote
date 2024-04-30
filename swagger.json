@@ -46,14 +46,17 @@
     },
     "/command": {
       "post": {
-        "description": "New endpoint",
+        "description": "Runs a command in the Unreal Engine",
         "responses": {
           "200": {
-            "description": "New response",
+            "description": "Default success response",
             "content": {
               "application/json": {
-                "schema": {
-                  "": ""
+                "example": {
+                  "data": {},
+                  "code": 200,
+                  "message": "Command executed",
+                  "success": true
                 }
               }
             }
