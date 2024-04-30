@@ -10,19 +10,16 @@
 
 <p>
     <a href="https://github.com/IT-Hock/MadDevRemote/issues/">
-        <img src="https://img.shields.io/github/issues/IT-Hock/MadDevRemote" alt="open issues" style="vertical-align:top; margin:4px" />
-    </a>
+        <img src="https://img.shields.io/github/issues/IT-Hock/MadDevRemote" alt="open issues" style="vertical-align:top; margin:4px" /></a>
     <span> · </span>
     <a href="https://github.com/IT-Hock/MadDevRemote/releases/">
-        <img src="https://img.shields.io/github/v/release/IT-Hock/MadDevRemote" alt="latest release" style="vertical-align:top; margin:4px" />
-    </a>
+        <img src="https://img.shields.io/github/v/release/IT-Hock/MadDevRemote" alt="latest release" style="vertical-align:top; margin:4px" /></a>
 </p>
 <p>
     <a href="https://www.unrealengine.com/marketplace/en-US/product/maddevremote"><img src="https://img.shields.io/badge/Unreal%20Engine-Marketplace-blue" alt="Unreal Engine Marketplace" style="vertical-align:top; margin:4px" /></a>
     <span> · </span>
     <a href="https://github.com/IT-Hock/MadDevRemote/releases/latest/download/de.ithock.maddevremote.streamDeckPlugin">
-        <img src="https://img.shields.io/badge/Download-Stream%20Deck%20Plugin-blue" alt="Download Stream Deck Plugin" style="vertical-align:top; margin:4px" />
-    </a>
+        <img src="https://img.shields.io/badge/Download-Stream%20Deck%20Plugin-blue" alt="Download Stream Deck Plugin" style="vertical-align:top; margin:4px" /></a>
 </p>
    
 <h4>
