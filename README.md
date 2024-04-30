@@ -10,18 +10,18 @@
 
 <p>
     <a href="https://github.com/IT-Hock/MadDevRemote/issues/">
-        <img src="https://img.shields.io/github/issues/IT-Hock/MadDevRemote" alt="open issues" />
+        <img src="https://img.shields.io/github/issues/IT-Hock/MadDevRemote" alt="open issues" style="vertical-align:top; margin:4px" />
     </a>
+    <span> · </span>
     <a href="https://github.com/IT-Hock/MadDevRemote/releases/">
-        <img src="https://img.shields.io/github/v/release/IT-Hock/MadDevRemote" alt="latest release" />
+        <img src="https://img.shields.io/github/v/release/IT-Hock/MadDevRemote" alt="latest release" style="vertical-align:top; margin:4px" />
     </a>
 </p>
 <p>
-    <a href="https://www.unrealengine.com/marketplace/en-US/product/maddevremote">
-        <img src="https://img.shields.io/badge/Unreal%20Engine-Marketplace-blue" alt="Unreal Engine Marketplace" />
-    </a>
+    <a href="https://www.unrealengine.com/marketplace/en-US/product/maddevremote"><img src="https://img.shields.io/badge/Unreal%20Engine-Marketplace-blue" alt="Unreal Engine Marketplace" style="vertical-align:top; margin:4px" /></a>
+    <span> · </span>
     <a href="https://github.com/IT-Hock/MadDevRemote/releases/latest/download/de.ithock.maddevremote.streamDeckPlugin">
-        <img src="https://img.shields.io/badge/Download-Stream%20Deck%20Plugin-blue" alt="Download Stream Deck Plugin" />
+        <img src="https://img.shields.io/badge/Download-Stream%20Deck%20Plugin-blue" alt="Download Stream Deck Plugin" style="vertical-align:top; margin:4px" />
     </a>
 </p>
    
@@ -38,16 +38,18 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [About the Project](#star2-about-the-project)
-  - [Installation](#gear-installation)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
-- [Contact](#handshake-contact)
+-   [About the Project](#star2-about-the-project)
+    -   [Installation](#gear-installation)
+-   [Usage](#eyes-usage)
+-   [Roadmap](#compass-roadmap)
+-   [Contact](#handshake-contact)
 
 ## :star2: About the Project
 
 ### :warning: Stream Deck Plugin is useless without the Unreal Engine Plugin :warning:
+
 > :warning: Please note that the Unreal Engine Plugin is a paid plugin and can be purchased from the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/product/maddevremote).
+
 ### :warning: Stream Deck Plugin is useless without the Unreal Engine Plugin :warning:
 
 <div align="center"> 
@@ -57,22 +59,24 @@
 ## :gear: Installation
 
 ### :warning: Stream Deck Plugin is useless without the Unreal Engine Plugin :warning:
+
 > :warning: Please note that the Unreal Engine Plugin is a paid plugin and can be purchased from the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/product/maddevremote).
+
 ### :warning: Stream Deck Plugin is useless without the Unreal Engine Plugin :warning:
 
-- **Step 1:** Download the Stream Deck Plugin
-  - Download the latest version of the Stream Deck Plugin from the [releases page](https://github.com/IT-Hock/MadDevRemote/releases/latest/download/de.ithock.maddevremote.streamDeckPlugin).
-- **Step 2:** Install the Stream Deck Plugin
-  - Open the Stream Deck application and double-click the downloaded plugin file.
-- **Step 3:** Install the Unreal Engine Plugin
-  - Download the Unreal Engine Plugin from the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/product/maddevremote).
-- **Step 4:** Enable the Unreal Engine Plugin
-    - Open your Unreal Engine project and enable the plugin in the plugin manager.
-    - Restart the Unreal Engine Editor.
-- **Step 5:** Create a "Run Console Command" Action
-  - Add a new action to your Stream Deck profile.
-  - Select the "Run Console Command" action.
-  - Enter the command you want to execute in the Unreal Engine.
+-   **Step 1:** Download the Stream Deck Plugin
+    -   Download the latest version of the Stream Deck Plugin from the [releases page](https://github.com/IT-Hock/MadDevRemote/releases/latest/download/de.ithock.maddevremote.streamDeckPlugin).
+-   **Step 2:** Install the Stream Deck Plugin
+    -   Open the Stream Deck application and double-click the downloaded plugin file.
+-   **Step 3:** Install the Unreal Engine Plugin
+    -   Download the Unreal Engine Plugin from the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/product/maddevremote).
+-   **Step 4:** Enable the Unreal Engine Plugin
+    -   Open your Unreal Engine project and enable the plugin in the plugin manager.
+    -   Restart the Unreal Engine Editor.
+-   **Step 5:** Create a "Run Console Command" Action
+    -   Add a new action to your Stream Deck profile.
+    -   Select the "Run Console Command" action.
+    -   Enter the command you want to execute in the Unreal Engine.
 
 ## :eyes: Usage
 
@@ -84,8 +88,8 @@ Please have a look at the [open issues](https://github.com/IT-Hock/MadDevRemote/
 
 ## :handshake: Contact
 
-- General Support: support@it-hock.de
-- Dominic Hock - d.hock@it-hock.de
+-   General Support: support@it-hock.de
+-   Dominic Hock - d.hock@it-hock.de
 
 Project Link: [https://github.com/IT-Hock/MadDevRemote](https://github.com/IT-Hock/MadDevRemote)
 
@@ -93,7 +97,7 @@ Project Link: [https://github.com/IT-Hock/MadDevRemote](https://github.com/IT-Ho
 
 Use this section to mention useful resources and libraries that you have used in your projects.
 
-- [Shields.io](https://shields.io/)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
-- [Unreal Engine](https://www.unrealengine.com/)
+-   [Shields.io](https://shields.io/)
+-   [Awesome README](https://github.com/matiassingers/awesome-readme)
+-   [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
+-   [Unreal Engine](https://www.unrealengine.com/)
